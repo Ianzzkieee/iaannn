@@ -11,7 +11,7 @@ Replace:
 
 <div align="center">
 
-#**Ian Bennedick L. Retuta**
+**Ian Bennedick L. Retuta**
 
 ### Computer Science Graduate | AI & Data Science Enthusiast | Aspiring Software Developer
 
